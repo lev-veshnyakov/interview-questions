@@ -1,2 +1,4 @@
+site_name: Questions for technical interviews
+docs_dir: ./
 pages:
 - Home: README.md
