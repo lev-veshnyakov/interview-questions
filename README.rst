@@ -1,1 +1,1 @@
-docs/README.rst
+docs/index.rst
